@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kJYyyzl1Kc8puaDSu+CnVhTlRCGzTP0b9yXuX/5OlXQ=",
+  "Source": "PaymentIntegrations",
+  "BasePath": "_content/PaymentIntegrations",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
